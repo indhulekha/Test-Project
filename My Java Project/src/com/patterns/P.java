@@ -4,7 +4,6 @@
 * * * * * 
 * * * * * 
 * * * * * 
-
  */
 package com.patterns;
 

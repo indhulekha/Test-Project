@@ -5,7 +5,6 @@
   G H I J 
 K L M N O 
 
-
  */
 package com.patterns;
 

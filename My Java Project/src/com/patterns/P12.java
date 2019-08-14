@@ -5,6 +5,7 @@ B B B
 * * * *
 C C C C C 
 
+
  */
 package com.patterns;
 
