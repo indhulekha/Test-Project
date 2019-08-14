@@ -1,3 +1,11 @@
+/*
+*         
+  *       
+    *     
+      *   
+        * 
+
+ */
 package com.patterns;
 
 public class P3 {

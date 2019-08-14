@@ -1,3 +1,11 @@
+/*
+1 
+0 0 
+1 1 1 
+0 0 0 0 
+1 1 1 1 1 
+
+ */
 package com.patterns;
 
 public class P10 {

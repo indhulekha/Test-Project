@@ -1,14 +1,14 @@
 /*
-A 
-B C 
-D E F 
-G H I J 
-K L M N O 
+        A 
+      B B 
+    C C C 
+  D D D D 
+E E E E E 
 
  */
 package com.patterns;
 
-public class P9 {
+public class P21 {
 
 	public static void main(String[] args)
 	{
@@ -17,8 +17,10 @@ public class P9 {
 		{
 			for (int j = 0; j < n; j++)
 			{
-				if(i>=j)
+				if(i+j>=n-1)
 					System.out.print(k+" ");
+				else
+					System.out.print("  ");
 			}
 			k++;
 			System.out.println();

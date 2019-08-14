@@ -1,14 +1,6 @@
-/*
-A 
-B C 
-D E F 
-G H I J 
-K L M N O 
-
- */
 package com.patterns;
 
-public class P9 {
+public class P39 {
 
 	public static void main(String[] args)
 	{
@@ -17,11 +9,22 @@ public class P9 {
 		{
 			for (int j = 0; j < n; j++)
 			{
-				if(i>=j)
-					System.out.print(k+" ");
+				if(i<=j)
+				{
+					if(i%2==0)
+					{
+						System.out.print(k+" ");
+					}
+					else
+					System.out.print("* ");
+				}
+				else
+					System.out.print("  ");
 			}
-			k++;
+			
 			System.out.println();
+			if(i%2==0)
+			k++;
 			
 		}
 		
