@@ -1,6 +1,14 @@
 package com.assignments;
 
-public class Product {
+/*WAP to create methods and perform multiplication 
+ 1. passing 2 integer parameters
+ 2. passing 3 double parameters
+ 3. passing 3 integer parameters
+ 4.passing 3 float parameters
+ */
+
+public class Product 
+{
 	public static void mul(int a, int b)
 	{
 		System.out.println("the product of" +a+ "and" +b+ "is" +(a*b));
