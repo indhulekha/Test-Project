@@ -1,3 +1,9 @@
+/*
+ WAP to design 2 methods,the name of the 1st method is printEven.
+ This method should printEven number upto a given limit and check
+ if the given number is even or not.you hould design a method known
+  as isEven.call printeven from maain method.
+ */
 package com.assignments;
 
 public class PrintEven {
@@ -30,3 +36,11 @@ public class PrintEven {
 	}
 
 }
+/*
+OUTPUT:
+0
+2
+4
+6
+8*/
+

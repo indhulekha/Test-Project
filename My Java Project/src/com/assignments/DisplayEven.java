@@ -1,3 +1,4 @@
+//To print the even numbers between the given limits
 package com.assignments;
 
 public class DisplayEven {
@@ -17,3 +18,16 @@ public class DisplayEven {
 	}
 
 }
+/*
+OUTPUT:
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+*/
